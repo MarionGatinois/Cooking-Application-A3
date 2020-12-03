@@ -1,5 +1,7 @@
 # Cooking-A3 - 2019
 
+Database : SQL
+
 Application de Gestionnaires Cooking : 
 - commander/ créer des recettes
 - gérer les stocks
